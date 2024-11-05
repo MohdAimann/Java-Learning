@@ -1,2 +1,2 @@
 # Java-Learning
-I am currently learning Java to expand my programming knowledge and strengthen my understanding of object-oriented concepts. By working through various projects and challenges, I aim to become proficient in using Java for building efficient, scalable applications. This journey will not only improve my technical skills but also deepen my understanding of software development fundamentals, which I can apply across a wide range of programming tasks.
+© 2024 Aiman. Learning Java to strengthen programming knowledge and mastery of object-oriented concepts. Tackling projects to build scalable applications and enhance software development skills. Anyone may take inspiration from this journey.
